@@ -7,7 +7,7 @@ date: 2016-07-26 08:50:00 +07:00
 
 Free e-Library - Technical Product Training เข้าไปลองสมัครใช้งาน[ได้ที่นี่ครับ](http://techcenter.symantec.com/ecampus/enterprise?siteName=sena&courseNo=AT0900)|[คู่มือการใช้งาน](https://dl.dropboxusercontent.com/u/20244107/Education_with_Free_eLibrary.pdf)
 
-------
+---
 
 **Symantec Encryption Management server 3.4 ออกแล้วครับ**
 
@@ -28,3 +28,5 @@ Free e-Library - Technical Product Training เข้าไปลองสมั
 * EOL Symantec Encryption Satellite
 
 * Add platform support
+
+---
