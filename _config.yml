@@ -1,6 +1,6 @@
 ---
 title: DoItAll.in.th
-timezone: UTC
+timezone: Asia/Bangkok
 collections:
   posts:
     title: Posts
@@ -20,4 +20,3 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
