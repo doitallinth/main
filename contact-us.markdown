@@ -12,5 +12,5 @@ Business Tel: 02-627-9000
 Business Fax: 02-627-9200, 9001 (Regus)
 
 Technical Support tel: 001 800 441 3737 (Toll Free), 02-627-9089
-Technical Support website: http://my.symantec.com
-Non-Technical Support Email: customercare_apj@symantec.com (i.e. license issue)
+Technical Support website: [http://my.symantec.com](http://my.symantec.com)
+Non-Technical Support Email: [customercare_apj@symantec.com](mailto:customercare_apj@symantec.com) (i.e. license issue)
